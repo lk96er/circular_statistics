@@ -24,7 +24,8 @@ To use these tests, you need Python 3.6 or later. The implementation depends on 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/lk96er/circular-statistics.git
+   git clone https://github.com/lk96er/circular_statistics.git
+
    ```
 
 2. Install the required packages:
